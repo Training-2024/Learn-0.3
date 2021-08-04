@@ -14,7 +14,9 @@ This is the the second important & essential step in this whole Training-2024 Pr
 You can ask your doubts to the assigned mentors.
 <hr/>
 <h2>Task Description</h2>
-
+<li>
+ <a href='https://github.com/Training-2024/Learn-0.3/tree/main/task2'>Task files</a>
+</li>
 <h2><a class="header" href="#b-problem-statement" id="b-problem-statement">Problem Statement</a></h2>
 <ul>
 <li>
@@ -74,7 +76,7 @@ You can ask your doubts to the assigned mentors.
 </blockquote>
 <h3><a class="header" href="#task-instructions" id="task-instructions">Task Instructions</a></h3>
 <hr />
-<p>Inside <em><strong>this repo</strong></em> you will find <strong>files &amp; folders</strong> as shown below:</p>
+<p>Inside <em><strong>the task2 folder</strong></em> you will find <strong>files &amp; folders</strong> as shown below:</p>
 <ul>
 <li><em>task2.py</em></li>
 <li><em>Samples</em>
